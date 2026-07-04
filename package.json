@@ -1,0 +1,9 @@
+{
+  "name": "speech-analyzer-pro-webpage",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "deploy": "npx wrangler deploy"
+  }
+}
