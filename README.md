@@ -2,6 +2,8 @@
 
 Static product page for SpeechAnalyzer PRO, a macOS app for local speech transcription, timeline translation, and translated transcript export.
 
+SpeechAnalyzer PRO is available on the [Mac App Store](https://apps.apple.com/us/app/speechanalyzer-pro/id6787419596?mt=12) as a one-time paid download. Every app feature is included; there are no in-app purchases, subscriptions, trials, or usage quotas.
+
 ## Contents
 
 - `index.html` - single-page product site
@@ -59,7 +61,7 @@ The page includes a user-facing privacy policy for the app and website:
 - SpeechAnalyzer PRO does not upload audio, transcript text, or translations.
 - Transcription, text translation, and export happen locally after the required macOS system models are installed.
 - Language and translation models are managed by macOS System Settings.
-- Apple StoreKit purchase, restore, and price-loading flows are Apple system flows.
+- The app is a paid App Store download and does not use in-app purchases, subscriptions, trials, purchase restoration, or feature unlocking.
 - The static website does not include analytics scripts, advertising trackers, forms, or cookies.
 
 ## Cloudflare Workers Static Assets

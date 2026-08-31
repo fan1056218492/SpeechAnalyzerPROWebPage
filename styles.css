@@ -251,10 +251,6 @@ dl {
   transform: translateY(-1px);
 }
 
-.disabled-link {
-  cursor: default;
-}
-
 .facts {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 10rem));
