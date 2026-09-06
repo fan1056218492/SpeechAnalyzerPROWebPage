@@ -1,16 +1,16 @@
-# SpeechAnalyzer PRO Web Page
+# OfflineScribe Web Page
 
-Static product page for SpeechAnalyzer PRO, a macOS app for local speech transcription, timeline translation, and translated transcript export.
+Static product page for OfflineScribe, a macOS app for private, on-device audio/video transcription, synchronized review, translation, and document or bilingual subtitle export.
 
-SpeechAnalyzer PRO is available on the [Mac App Store](https://apps.apple.com/us/app/speechanalyzer-pro/id6787419596?mt=12) as a one-time paid download. Every app feature is included; there are no in-app purchases, subscriptions, trials, or usage quotas.
+OfflineScribe is available on the [Mac App Store](https://apps.apple.com/us/app/speechanalyzer-pro/id6787419596?mt=12) as a one-time paid download. Every app feature is included; there are no in-app purchases, subscriptions, trials, or usage quotas.
 
 ## Contents
 
 - `index.html` - single-page product site
 - `styles.css` - responsive layout and visual design
 - `script.js` - language switching and localized copy
-- `assets/icons/` - SpeechAnalyzer PRO app icon assets
-- `assets/marketing/` - product hero bitmap
+- `assets/icons/` - OfflineScribe app icon assets
+- `assets/marketing/1.2/<locale>/` - localized, web-optimized product screenshots generated from the reviewed App Store artwork
 - `_headers` - Cloudflare static asset header rules
 
 ## Local Preview
@@ -58,7 +58,7 @@ Use `?lang=<locale>` to open a specific language, for example:
 
 The page includes a user-facing privacy policy for the app and website:
 
-- SpeechAnalyzer PRO does not upload audio, transcript text, or translations.
+- OfflineScribe does not upload audio, video, transcript text, or translations.
 - Transcription, text translation, and export happen locally after the required macOS system models are installed.
 - Language and translation models are managed by macOS System Settings.
 - The app is a paid App Store download and does not use in-app purchases, subscriptions, trials, purchase restoration, or feature unlocking.

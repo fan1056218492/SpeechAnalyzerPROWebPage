@@ -47,9 +47,6 @@ img {
   max-width: 100%;
 }
 
-.review-capture { margin: 2rem 0; }
-.review-capture img { width: 100%; height: auto; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-md); }
-.review-capture figcaption { margin-top: 1rem; color: var(--muted); font-size: 0.875rem; }
 .review-details { grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); }
 
 a {
@@ -161,14 +158,13 @@ select:focus-visible {
 
 .hero {
   position: relative;
-  height: 82svh;
-  min-height: 620px;
-  max-height: 820px;
+  min-height: 680px;
   overflow: hidden;
   isolation: isolate;
   background:
-    linear-gradient(90deg, rgba(238, 245, 244, 0.98) 0%, rgba(238, 245, 244, 0.94) 34%, rgba(238, 245, 244, 0.2) 68%, rgba(238, 245, 244, 0.5) 100%),
-    url("assets/marketing/speech-analyzer-pro-hero.png") center / cover no-repeat;
+    radial-gradient(circle at 85% 12%, rgba(43, 111, 137, 0.2), transparent 34%),
+    radial-gradient(circle at 12% 88%, rgba(47, 121, 90, 0.16), transparent 31%),
+    linear-gradient(145deg, #f7fbfa 0%, #e9f3f1 52%, #dfeceb 100%);
   border-top: 1px solid rgba(255, 255, 255, 0.76);
 }
 
@@ -182,9 +178,13 @@ select:focus-visible {
 }
 
 .hero-content {
+  display: grid;
+  grid-template-columns: minmax(0, 0.82fr) minmax(31rem, 1.18fr);
+  align-items: center;
+  gap: clamp(2rem, 4vw, 4.5rem);
   width: min(calc(100% - 2rem), var(--max));
   margin: 0 auto;
-  padding: 7vh 0 3.5rem;
+  padding: clamp(4.5rem, 8vh, 7rem) 0;
 }
 
 .eyebrow {
@@ -205,21 +205,51 @@ dl {
 }
 
 .hero h1 {
-  width: min(9.8ch, 100%);
+  width: min(12ch, 100%);
   margin-bottom: 1.05rem;
   font-family: var(--display);
-  font-size: 5.7rem;
+  font-size: clamp(4rem, 7vw, 6rem);
   line-height: 0.95;
-  letter-spacing: 0;
+  letter-spacing: -0.045em;
 }
 
 .hero-lead {
-  width: min(42rem, 100%);
+  width: min(36rem, 100%);
   margin-bottom: 1.45rem;
   color: #263a43;
   font-size: 1.26rem;
   line-height: 1.45;
   font-weight: 650;
+}
+
+.hero-visual {
+  position: relative;
+  display: block;
+  transform: perspective(1200px) rotateY(-4deg) rotateX(1deg);
+  transform-origin: center;
+}
+
+.hero-visual::before {
+  position: absolute;
+  inset: 10% 7% -8%;
+  z-index: -1;
+  content: "";
+  background: rgba(43, 111, 137, 0.28);
+  filter: blur(42px);
+}
+
+.hero-visual img {
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba(16, 33, 40, 0.18);
+  border-radius: 16px;
+  box-shadow: 0 34px 80px rgba(20, 40, 54, 0.26);
+  transition: transform 0.24s ease, box-shadow 0.24s ease;
+}
+
+.hero-visual:hover img {
+  transform: translateY(-4px);
+  box-shadow: 0 40px 92px rgba(20, 40, 54, 0.31);
 }
 
 .hero-actions {
@@ -334,6 +364,43 @@ dl {
 .workflow-copy p {
   color: var(--muted);
   font-size: 1.05rem;
+}
+
+.review-showcase {
+  width: min(calc(100% - 2rem), 1380px);
+}
+
+.screenshot-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.screenshot-card {
+  display: block;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow-md);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.screenshot-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.screenshot-card img {
+  width: 100%;
+  height: auto;
+}
+
+.gallery-note {
+  max-width: 58rem;
+  margin: 1.2rem 0 2rem;
+  color: var(--muted);
+  font-size: 0.875rem;
 }
 
 .feature-grid,
@@ -494,12 +561,21 @@ article p {
   }
 
   .hero {
-    min-height: 650px;
-    background-position: 58% center;
+    min-height: 0;
   }
 
-  .hero h1 {
-    font-size: 4rem;
+  .hero-content {
+    grid-template-columns: 1fr;
+    padding-top: 4.5rem;
+    padding-bottom: 4rem;
+  }
+
+  .hero-copy {
+    max-width: 42rem;
+  }
+
+  .hero-visual {
+    transform: none;
   }
 
   .hero-lead {
@@ -543,8 +619,6 @@ article p {
 
   .hero {
     height: auto;
-    min-height: 76svh;
-    background-position: 64% center;
   }
 
   .hero-content {
@@ -553,7 +627,7 @@ article p {
   }
 
   .hero h1 {
-    font-size: 3.2rem;
+    font-size: clamp(3.2rem, 17vw, 4.25rem);
   }
 
   .hero-actions,
@@ -576,6 +650,10 @@ article p {
   }
 
   .policy-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .screenshot-grid {
     grid-template-columns: 1fr;
   }
 
