@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Převod audia na text na Macu — OfflineScribe",
+    "description": "Převádějte řeč na text ze zvukových souborů a videí. Přepisujte, upravujte, překládejte a exportujte přímo na Macu bez nahrávání souborů na server."
+  },
+  "skip": "Přejít na obsah",
+  "language": "Jazyk",
+  "nav": {
+    "features": "Funkce",
+    "privacy": "Soukromí",
+    "pricing": "Cena",
+    "support": "Podpora"
+  },
+  "hero": {
+    "title": "Převeďte audio na text na Macu.",
+    "lead": "Převádějte řeč na text ze zvukových souborů a videí. Přepisujte, upravujte, překládejte a exportujte přímo na Macu bez nahrávání souborů na server.",
+    "download": "Stáhnout v App Storu",
+    "webStore": "Zobrazit web App Storu",
+    "requirements": "Vyžaduje macOS 26+ a potřebné modely řeči a překladu nainstalované v Nastavení systému. Poté zpracování probíhá místně. MP4/MOV vyžaduje podporované kodeky; chráněná videa a videa bez zvuku nelze přepsat."
+  },
+  "features": {
+    "title": "Od nahrávky k použitelnému textu.",
+    "items": [
+      [
+        "Dávkové zpracování",
+        "Přidejte více zvukových souborů nebo videí a zpracujte je postupně."
+      ],
+      [
+        "Pozastavení a pokračování",
+        "Pozastavte dlouhou úlohu, zpracujte jinou a pokračujte poblíž posledního dokončeného úseku."
+      ],
+      [
+        "Poslouchejte a opravujte",
+        "Kliknutím přejděte na větu, změňte rychlost přehrávání a upravte text či překlad. Změny se ukládají místně."
+      ],
+      [
+        "Šest formátů exportu",
+        "Exportujte původní text nebo překlad jako TXT, Markdown, HTML, DOCX, SRT nebo VTT."
+      ]
+    ]
+  },
+  "gallery": {
+    "title": "Podívejte se na aplikaci v praxi.",
+    "note": "Skutečné snímky vývojové verze 1.2 s nahrávkou LibriVox. Rozhraní v příkladech je anglicky. Přepis vyžaduje kontrolu; příklad není měřením přesnosti.",
+    "videoTitle": "Video a titulky",
+    "videoText": "Importujte MP4 nebo MOV, vyberte zvukovou stopu a zobrazte náhled titulků. Rozdělte nebo slučte úseky, upravte časování a exportujte původní, přeložené či dvojjazyčné SRT/VTT.",
+    "alts": [
+      "Převádějte řeč na text ze zvukových souborů a videí. Přepisujte, upravujte, překládejte a exportujte přímo na Macu bez nahrávání souborů na server.",
+      "Kliknutím přejděte na větu, změňte rychlost přehrávání a upravte text či překlad. Změny se ukládají místně.",
+      "Importujte MP4 nebo MOV, vyberte zvukovou stopu a zobrazte náhled titulků. Rozdělte nebo slučte úseky, upravte časování a exportujte původní, přeložené či dvojjazyčné SRT/VTT.",
+      "Audio, video, text ani překlady se neodesílají na server. Aplikace používá Apple SpeechAnalyzer a Apple Translation na Macu bez účtu a vzdáleného protokolování.",
+      "Přidejte více zvukových souborů nebo videí a zpracujte je postupně.",
+      "Exportujte původní text nebo překlad jako TXT, Markdown, HTML, DOCX, SRT nebo VTT."
+    ]
+  },
+  "formats": {
+    "title": "Formáty pro vaši práci.",
+    "input": "Podporovaná média",
+    "output": "Export textu",
+    "finderTitle": "Přímo z Finderu",
+    "finderText": "Odešlete zvukové soubory do aplikace nebo spusťte překlad z kontextové nabídky Finderu."
+  },
+  "privacy": {
+    "title": "Vaše soubory zůstávají na Macu.",
+    "items": [
+      [
+        "Soukromí aplikace",
+        "Audio, video, text ani překlady se neodesílají na server. Aplikace používá Apple SpeechAnalyzer a Apple Translation na Macu bez účtu a vzdáleného protokolování."
+      ],
+      [
+        "Systémové modely",
+        "Nainstalujte potřebné modely v Nastavení systému. Aplikace ověřuje jejich dostupnost, ale sama je nestahuje."
+      ],
+      [
+        "Soukromí webu",
+        "Tento statický web neobsahuje analytické skripty, reklamní sledování, formuláře, cookies ani externí písma. Cloudflare může jako poskytovatel hostingu zpracovávat běžné protokoly požadavků."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Jeden nákup. Bez předplatného.",
+    "text": "App Store zobrazuje cenu pro vaši zemi nebo oblast. Všechny funkce přepisu, překladu a exportu jsou zahrnuty.",
+    "note": "OfflineScribe se kupuje jednorázově. Bez nákupů v aplikaci, předplatného, zkušební doby, denních limitů nebo příplatků za velké soubory."
+  },
+  "support": {
+    "title": "Dotazy nebo připomínky?",
+    "text": "Kontaktujte vývojáře ohledně převodu, jazykových modelů nebo pracovního postupu.",
+    "email": "Napsat vývojáři",
+    "note": "Otevře se výchozí e-mailová aplikace. Sami rozhodujete, co odešlete."
+  },
+  "faq": {
+    "title": "Než začnete",
+    "items": [
+      [
+        "Jaké nahrávky mohu převést na text?",
+        "Převeďte schůzky, rozhovory, přednášky a hlasové poznámky na upravitelný text. Při opravách poslouchejte a exportujte dokumenty či titulky."
+      ],
+      [
+        "Mohu přepisovat bez internetu?",
+        "Vyžaduje macOS 26+ a potřebné modely řeči a překladu nainstalované v Nastavení systému. Poté zpracování probíhá místně. MP4/MOV vyžaduje podporované kodeky; chráněná videa a videa bez zvuku nelze přepsat."
+      ],
+      [
+        "Potřebuji předplatné?",
+        "OfflineScribe se kupuje jednorázově. Bez nákupů v aplikaci, předplatného, zkušební doby, denních limitů nebo příplatků za velké soubory."
+      ]
+    ]
+  },
+  "back": "Zpět nahoru"
+}

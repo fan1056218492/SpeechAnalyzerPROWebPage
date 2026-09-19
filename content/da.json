@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Lyd til tekst på Mac — OfflineScribe",
+    "description": "Omdan tale til tekst fra lyd- og videofiler. Transskriber, rediger, oversæt og eksporter lokalt på din Mac uden at uploade filer."
+  },
+  "skip": "Gå til indhold",
+  "language": "Sprog",
+  "nav": {
+    "features": "Funktioner",
+    "privacy": "Privatliv",
+    "pricing": "Pris",
+    "support": "Support"
+  },
+  "hero": {
+    "title": "Gør lyd til tekst på din Mac.",
+    "lead": "Omdan tale til tekst fra lyd- og videofiler. Transskriber, rediger, oversæt og eksporter lokalt på din Mac uden at uploade filer.",
+    "download": "Hent i App Store",
+    "webStore": "Se App Store på nettet",
+    "requirements": "Kræver macOS 26+ og de nødvendige tale- og oversættelsesmodeller installeret via Systemindstillinger. Derefter sker behandlingen lokalt. MP4/MOV kræver understøttede codecs; beskyttet video eller video uden lyd kan ikke transskriberes."
+  },
+  "features": {
+    "title": "Fra optagelse til brugbar tekst.",
+    "items": [
+      [
+        "Behandl flere filer",
+        "Tilføj flere lyd- eller videofiler, og behandl dem én ad gangen."
+      ],
+      [
+        "Sæt på pause og fortsæt",
+        "Sæt en lang opgave på pause, behandl en anden, og fortsæt nær det senest færdige segment."
+      ],
+      [
+        "Lyt og ret",
+        "Klik på en sætning for at springe til den, skift afspilningshastighed, og rediger tekst eller oversættelse. Ændringer gemmes lokalt."
+      ],
+      [
+        "Seks eksportformater",
+        "Eksporter original eller oversættelse som TXT, Markdown, HTML, DOCX, SRT eller VTT."
+      ]
+    ]
+  },
+  "gallery": {
+    "title": "Se appen i brug.",
+    "note": "Ægte billeder fra en udviklingsversion af 1.2 med dansk appgrænseflade og en LibriVox-optagelse. Enkelte elementer er stadig på engelsk. Teksten skal korrekturlæses; eksemplet er ikke en måling af nøjagtighed.",
+    "videoTitle": "Video og undertekster",
+    "videoText": "Importer MP4 eller MOV, vælg lydspor, og se undertekster. Opdel eller flet segmenter, juster tider, og eksporter original, oversættelse eller tosprogede SRT/VTT.",
+    "alts": [
+      "Omdan tale til tekst fra lyd- og videofiler. Transskriber, rediger, oversæt og eksporter lokalt på din Mac uden at uploade filer.",
+      "Klik på en sætning for at springe til den, skift afspilningshastighed, og rediger tekst eller oversættelse. Ændringer gemmes lokalt.",
+      "Importer MP4 eller MOV, vælg lydspor, og se undertekster. Opdel eller flet segmenter, juster tider, og eksporter original, oversættelse eller tosprogede SRT/VTT.",
+      "Lyd, video, tekst og oversættelser uploades ikke. Appen bruger Apple SpeechAnalyzer og Apple Translation på din Mac uden konto eller fjernlogning.",
+      "Tilføj flere lyd- eller videofiler, og behandl dem én ad gangen.",
+      "Eksporter original eller oversættelse som TXT, Markdown, HTML, DOCX, SRT eller VTT."
+    ]
+  },
+  "formats": {
+    "title": "Formater til dit arbejde.",
+    "input": "Understøttede medier",
+    "output": "Teksteksport",
+    "finderTitle": "Direkte fra Finder",
+    "finderText": "Send lydfiler til appen, eller start oversættelse fra Finders genvejsmenu."
+  },
+  "privacy": {
+    "title": "Dine filer bliver på din Mac.",
+    "items": [
+      [
+        "Appens privatliv",
+        "Lyd, video, tekst og oversættelser uploades ikke. Appen bruger Apple SpeechAnalyzer og Apple Translation på din Mac uden konto eller fjernlogning."
+      ],
+      [
+        "Systemmodeller",
+        "Installer de nødvendige modeller via Systemindstillinger. Appen kontrollerer tilgængeligheden, men henter ikke selv modeller."
+      ],
+      [
+        "Webstedets privatliv",
+        "Dette statiske websted indeholder ingen analysescripts, reklamesporing, formularer, cookies eller eksterne skrifttyper. Cloudflare kan som hostingudbyder behandle almindelige anmodningslogfiler."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Ét køb. Intet abonnement.",
+    "text": "App Store viser prisen for dit land eller område. Alle funktioner til transskription, oversættelse og eksport er inkluderet.",
+    "note": "OfflineScribe købes én gang. Ingen køb i appen, abonnementer, prøveperioder, daglige kvoter eller ekstra betaling for store filer."
+  },
+  "support": {
+    "title": "Spørgsmål eller feedback?",
+    "text": "Kontakt udvikleren om konvertering, sprogmodeller eller din arbejdsgang.",
+    "email": "Skriv til udvikleren",
+    "note": "Din standardapp til e-mail åbnes. Du bestemmer selv, hvad der sendes."
+  },
+  "faq": {
+    "title": "Før du begynder",
+    "items": [
+      [
+        "Hvilke optagelser kan blive til tekst?",
+        "Omdan møder, interviews, forelæsninger og stemmememoer til redigerbar tekst. Lyt, mens du retter, og eksporter dokumenter eller undertekster."
+      ],
+      [
+        "Kan jeg transskribere offline?",
+        "Kræver macOS 26+ og de nødvendige tale- og oversættelsesmodeller installeret via Systemindstillinger. Derefter sker behandlingen lokalt. MP4/MOV kræver understøttede codecs; beskyttet video eller video uden lyd kan ikke transskriberes."
+      ],
+      [
+        "Skal jeg have et abonnement?",
+        "OfflineScribe købes én gang. Ingen køb i appen, abonnementer, prøveperioder, daglige kvoter eller ekstra betaling for store filer."
+      ]
+    ]
+  },
+  "back": "Til toppen"
+}

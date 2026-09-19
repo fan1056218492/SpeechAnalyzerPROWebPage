@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Audio na tekst na Macu — OfflineScribe",
+    "description": "Zamieniaj mowę na tekst z plików audio i wideo. Transkrybuj, edytuj, tłumacz i eksportuj lokalnie na Macu, bez przesyłania plików."
+  },
+  "skip": "Przejdź do treści",
+  "language": "Język",
+  "nav": {
+    "features": "Funkcje",
+    "privacy": "Prywatność",
+    "pricing": "Cena",
+    "support": "Pomoc"
+  },
+  "hero": {
+    "title": "Zamień audio na tekst na Macu.",
+    "lead": "Zamieniaj mowę na tekst z plików audio i wideo. Transkrybuj, edytuj, tłumacz i eksportuj lokalnie na Macu, bez przesyłania plików.",
+    "download": "Pobierz w App Store",
+    "webStore": "Otwórz stronę App Store",
+    "requirements": "Wymaga macOS 26+ oraz modeli mowy i tłumaczenia zainstalowanych w Ustawieniach systemowych. Następnie przetwarzanie odbywa się lokalnie. MP4/MOV wymaga obsługiwanych kodeków; chronione filmy i filmy bez dźwięku nie mogą być transkrybowane."
+  },
+  "features": {
+    "title": "Od nagrania do gotowego tekstu.",
+    "items": [
+      [
+        "Przetwarzanie wsadowe",
+        "Dodaj wiele plików audio lub wideo i przetwarzaj je kolejno."
+      ],
+      [
+        "Wstrzymywanie i wznawianie",
+        "Wstrzymaj długie zadanie, przetwórz inne i wróć w pobliżu ostatniego ukończonego fragmentu."
+      ],
+      [
+        "Słuchaj i poprawiaj",
+        "Kliknij zdanie, aby do niego przejść, zmień szybkość odtwarzania i edytuj tekst lub tłumaczenie. Zmiany są zapisywane lokalnie."
+      ],
+      [
+        "Sześć formatów eksportu",
+        "Eksportuj oryginał lub tłumaczenie do TXT, Markdown, HTML, DOCX, SRT lub VTT."
+      ]
+    ]
+  },
+  "gallery": {
+    "title": "Zobacz aplikację w działaniu.",
+    "note": "Rzeczywiste obrazy wersji rozwojowej 1.2 z nagraniem LibriVox. Interfejs w przykładach jest po angielsku. Transkrypcja wymaga korekty; przykład nie stanowi pomiaru dokładności.",
+    "videoTitle": "Wideo i napisy",
+    "videoText": "Importuj MP4 lub MOV, wybierz ścieżkę audio i przeglądaj napisy. Dziel lub łącz fragmenty, zmieniaj czasy i eksportuj oryginalne, przetłumaczone lub dwujęzyczne SRT/VTT.",
+    "alts": [
+      "Zamieniaj mowę na tekst z plików audio i wideo. Transkrybuj, edytuj, tłumacz i eksportuj lokalnie na Macu, bez przesyłania plików.",
+      "Kliknij zdanie, aby do niego przejść, zmień szybkość odtwarzania i edytuj tekst lub tłumaczenie. Zmiany są zapisywane lokalnie.",
+      "Importuj MP4 lub MOV, wybierz ścieżkę audio i przeglądaj napisy. Dziel lub łącz fragmenty, zmieniaj czasy i eksportuj oryginalne, przetłumaczone lub dwujęzyczne SRT/VTT.",
+      "Audio, wideo, tekst i tłumaczenia nie są przesyłane na serwer. Aplikacja korzysta z Apple SpeechAnalyzer i Apple Translation na Macu, bez konta i zdalnego rejestrowania danych.",
+      "Dodaj wiele plików audio lub wideo i przetwarzaj je kolejno.",
+      "Eksportuj oryginał lub tłumaczenie do TXT, Markdown, HTML, DOCX, SRT lub VTT."
+    ]
+  },
+  "formats": {
+    "title": "Formaty do codziennej pracy.",
+    "input": "Obsługiwane multimedia",
+    "output": "Eksport tekstu",
+    "finderTitle": "Prosto z Findera",
+    "finderText": "Wyślij pliki audio do aplikacji lub rozpocznij tłumaczenie przez menu kontekstowe Findera."
+  },
+  "privacy": {
+    "title": "Twoje pliki zostają na Macu.",
+    "items": [
+      [
+        "Prywatność aplikacji",
+        "Audio, wideo, tekst i tłumaczenia nie są przesyłane na serwer. Aplikacja korzysta z Apple SpeechAnalyzer i Apple Translation na Macu, bez konta i zdalnego rejestrowania danych."
+      ],
+      [
+        "Modele systemowe",
+        "Zainstaluj potrzebne modele w Ustawieniach systemowych. Aplikacja sprawdza ich dostępność, ale sama ich nie pobiera."
+      ],
+      [
+        "Prywatność witryny",
+        "Ta statyczna witryna nie zawiera skryptów analitycznych, modułów reklamowych, formularzy, plików cookie ani zewnętrznych czcionek. Cloudflare jako dostawca hostingu może przetwarzać standardowe dzienniki żądań."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Jeden zakup. Bez abonamentu.",
+    "text": "App Store wyświetla cenę dla Twojego kraju lub regionu. Wszystkie funkcje transkrypcji, tłumaczenia i eksportu są wliczone.",
+    "note": "OfflineScribe kupujesz jednorazowo. Bez zakupów w aplikacji, abonamentu, okresu próbnego, limitów dziennych i dopłat za wielkość pliku."
+  },
+  "support": {
+    "title": "Pytania lub uwagi?",
+    "text": "Skontaktuj się z deweloperem w sprawie konwersji, modeli językowych lub sposobu pracy.",
+    "email": "Napisz do dewelopera",
+    "note": "Otworzy się domyślna aplikacja pocztowa. Ty decydujesz, co wysłać."
+  },
+  "faq": {
+    "title": "Zanim zaczniesz",
+    "items": [
+      [
+        "Jakie nagrania mogę zamienić na tekst?",
+        "Zamieniaj spotkania, wywiady, wykłady i notatki głosowe na edytowalny tekst. Odsłuchuj podczas korekty i eksportuj dokumenty lub napisy."
+      ],
+      [
+        "Czy mogę transkrybować bez internetu?",
+        "Wymaga macOS 26+ oraz modeli mowy i tłumaczenia zainstalowanych w Ustawieniach systemowych. Następnie przetwarzanie odbywa się lokalnie. MP4/MOV wymaga obsługiwanych kodeków; chronione filmy i filmy bez dźwięku nie mogą być transkrybowane."
+      ],
+      [
+        "Czy potrzebuję abonamentu?",
+        "OfflineScribe kupujesz jednorazowo. Bez zakupów w aplikacji, abonamentu, okresu próbnego, limitów dziennych i dopłat za wielkość pliku."
+      ]
+    ]
+  },
+  "back": "Na górę"
+}

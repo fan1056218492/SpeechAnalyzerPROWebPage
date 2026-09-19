@@ -2,29 +2,33 @@
 
 Static product page for OfflineScribe, a macOS app for private, on-device audio/video transcription, synchronized review, translation, and document or bilingual subtitle export.
 
-OfflineScribe is available on the [Mac App Store](https://apps.apple.com/us/app/speechanalyzer-pro/id6787419596?mt=12) as a one-time paid download. Every app feature is included; there are no in-app purchases, subscriptions, trials, or usage quotas.
+OfflineScribe is available on the [Mac App Store](https://apps.apple.com/app/id6787419596?mt=12) as a one-time paid download. Every app feature is included; there are no in-app purchases, subscriptions, trials, or usage quotas.
 
 ## Contents
 
-- `index.html` - single-page product site
+- `content/<locale>.json` - complete localized page copy and metadata
+- `scripts/render-site.mjs` - static HTML renderer
+- `scripts/build-site.mjs` - generates the root entry, 22 locale routes, sitemap, robots file, and 404 page
+- `site.config.mjs` - site URLs, locale routes, and screenshot mapping
 - `styles.css` - responsive layout and visual design
-- `script.js` - language switching and localized copy
+- `script.js` - root-language negotiation, native App Store behavior, and menu interactions
 - `assets/icons/` - OfflineScribe app icon assets
 - `assets/marketing/1.2/<locale>/` - localized, web-optimized product screenshots generated from the reviewed App Store artwork
 - `_headers` - Cloudflare static asset header rules
 
 ## Local Preview
 
-Open `index.html` directly, or run a local static server:
+Build the site and start the local preview server:
 
 ```sh
-python3 -m http.server 8080
+npm run build
+npm run preview
 ```
 
 Then open:
 
 ```text
-http://localhost:8080
+http://127.0.0.1:4173
 ```
 
 ## Languages
@@ -33,25 +37,33 @@ The page supports:
 
 - English
 - Deutsch
-- Espanol
-- Espanol (Espana)
-- Espanol (Mexico)
-- Francais
-- Francais (Canada)
+- Español
+- Español (España)
+- Español (México)
+- Français
+- Français (Canada)
 - Italiano
-- Japanese
-- Korean
-- Portugues (Brasil)
-- Portugues (Portugal)
+- 日本語
+- 한국어
+- Português
+- Português do Brasil
+- Nederlands
+- Polski
+- Svenska
+- Dansk
+- Norsk bokmål
+- Suomi
+- Čeština
+- Türkçe
 - Simplified Chinese
 - Traditional Chinese
 
-Use `?lang=<locale>` to open a specific language, for example:
+Each language has a stable, indexable route. Legacy `?lang=<locale>` URLs are still redirected in the browser:
 
 ```text
-/?lang=zh-Hans
-/?lang=ja
-/?lang=de
+/zh-Hans/
+/ja/
+/de/
 ```
 
 ## Privacy Policy

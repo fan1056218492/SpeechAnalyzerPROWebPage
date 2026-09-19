@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Convertir audio a texto en Mac — OfflineScribe",
+    "description": "Transcripción de voz a texto para archivos de audio y vídeo. Transcribe, edita, traduce y exporta de forma local en tu Mac."
+  },
+  "skip": "Ir al contenido",
+  "language": "Idioma",
+  "nav": {
+    "features": "Funciones",
+    "privacy": "Privacidad",
+    "pricing": "Precio",
+    "support": "Soporte"
+  },
+  "hero": {
+    "title": "Convierte audio en texto en tu Mac.",
+    "lead": "Transcripción de voz a texto para archivos de audio y vídeo. Transcribe, edita, traduce y exporta de forma local en tu Mac.",
+    "download": "Descargar en App Store",
+    "webStore": "Ver la web del App Store",
+    "requirements": "Requiere macOS 26+ y los modelos de voz y traducción instalados desde Ajustes del Sistema. MP4/MOV depende de los códecs compatibles con macOS. No se transcriben vídeos protegidos o sin pista de audio."
+  },
+  "features": {
+    "title": "De la cola de audio a la transcripcion traducida.",
+    "items": [
+      [
+        "Conversion por lotes",
+        "Procesa por lotes con pausa y reanudación. Prioriza otra tarea y continúa desde un punto cercano."
+      ],
+      [
+        "Pausar y continuar",
+        "Pausa una transcripcion larga, procesa otro elemento y continua cerca del ultimo segmento finalizado."
+      ],
+      [
+        "Escucha. Corrige. Exporta.",
+        "Salta a una frase, cambia la velocidad y edita el original o la traducción con deshacer. Los cambios se guardan localmente y se recuperan al abrir la app."
+      ],
+      [
+        "Opciones de exportacion",
+        "Revisa una vez y exporta en seis formatos: TXT, Markdown, HTML, DOCX, SRT y VTT."
+      ]
+    ]
+  },
+  "gallery": {
+    "title": "Escucha. Corrige. Exporta.",
+    "note": "Interfaz real de desarrollo 1.2 con una grabación LibriVox de The Importance of Being Earnest. El resultado necesita revisión; no es una prueba de precisión.",
+    "alts": [
+      "Convierte audio y vídeo en texto editable. Todo se procesa en el Mac, sin subir audio, vídeo ni texto.",
+      "Escucha, edita y pulsa una frase para ir a ella. Reproduce, busca, divide, une, deshaz y rehace.",
+      "Previsualiza original, traducción y subtítulos bilingües. Ajusta los tiempos y exporta en SRT o VTT.",
+      "El contenido sensible se queda en tu Mac. Sin transcripción en la nube, cuentas ni registros remotos.",
+      "Procesa por lotes con pausa y reanudación. Prioriza otra tarea y continúa desde un punto cercano.",
+      "Revisa una vez y exporta en seis formatos: TXT, Markdown, HTML, DOCX, SRT y VTT."
+    ],
+    "videoTitle": "Vídeo y subtítulos",
+    "videoText": "Importa MP4 o MOV, elige una pista de audio y previsualiza subtítulos. Divide o une segmentos, ajusta tiempos y exporta SRT/VTT originales, traducidos o bilingües con el orden de líneas elegido."
+  },
+  "formats": {
+    "title": "Formatos practicos para transcripcion.",
+    "input": "Archivos compatibles",
+    "output": "Exportacion",
+    "finderTitle": "Flujo Finder",
+    "finderText": "Envia audio a la app o inicia traduccion desde acciones contextuales de Finder."
+  },
+  "privacy": {
+    "title": "Transcripcion y traduccion permanecen locales.",
+    "items": [
+      [
+        "Privacidad de la app",
+        "El contenido sensible se queda en tu Mac. Sin transcripción en la nube, cuentas ni registros remotos."
+      ],
+      [
+        "Modelos del sistema",
+        "Los modelos de idioma y traduccion se gestionan en Ajustes del Sistema de macOS. La app comprueba disponibilidad, pero no descarga modelos."
+      ],
+      [
+        "Privacidad del sitio",
+        "Este sitio estatico no incluye analytics, rastreadores, formularios, cookies ni fuentes en linea. Cloudflare puede procesar registros estandar como proveedor de hosting."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Todo incluido. Sin suscripcion.",
+    "text": "App Store muestra el precio para tu pais o region. Descarga una vez y usa todas las funciones de transcripcion, traduccion y exportacion.",
+    "note": "OfflineScribe es una descarga de pago de App Store. Incluye todas las funciones, sin compras dentro de la app, suscripciones, pruebas, restauracion de compras ni desbloqueo de funciones."
+  },
+  "support": {
+    "title": "Preguntas, reportes y comentarios.",
+    "text": "Envia problemas de conversion, preguntas de modelos y comentarios de flujo directamente al desarrollador.",
+    "email": "Enviar email",
+    "note": "El contacto es opcional. Tu mensaje se abre en tu app de correo y controlas lo que se envia."
+  },
+  "faq": {
+    "title": "Antes de empezar",
+    "items": [
+      [
+        "¿Qué grabaciones puedo convertir en texto?",
+        "Convierte reuniones, entrevistas, clases y notas de voz en texto editable. Importa audio o vídeo, revisa la transcripción mientras escuchas y exporta documentos o subtítulos."
+      ],
+      [
+        "¿Puedo transcribir sin conexión?",
+        "Requiere macOS 26+ y los modelos de voz y traducción instalados desde Ajustes del Sistema. MP4/MOV depende de los códecs compatibles con macOS. No se transcriben vídeos protegidos o sin pista de audio."
+      ],
+      [
+        "¿Necesito una suscripción?",
+        "OfflineScribe es una descarga de pago de App Store. Incluye todas las funciones, sin compras dentro de la app, suscripciones, pruebas, restauracion de compras ni desbloqueo de funciones."
+      ]
+    ]
+  },
+  "back": "Volver arriba"
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Ääni tekstiksi Macilla — OfflineScribe",
+    "description": "Muunna puhe tekstiksi ääni- ja videotiedostoista. Litteroi, muokkaa, käännä ja vie paikallisesti Macilla ilman tiedostojen lähettämistä."
+  },
+  "skip": "Siirry sisältöön",
+  "language": "Kieli",
+  "nav": {
+    "features": "Ominaisuudet",
+    "privacy": "Tietosuoja",
+    "pricing": "Hinta",
+    "support": "Tuki"
+  },
+  "hero": {
+    "title": "Muunna ääni tekstiksi Macilla.",
+    "lead": "Muunna puhe tekstiksi ääni- ja videotiedostoista. Litteroi, muokkaa, käännä ja vie paikallisesti Macilla ilman tiedostojen lähettämistä.",
+    "download": "Lataa App Storesta",
+    "webStore": "Näytä App Storen verkkosivu",
+    "requirements": "Vaatii macOS 26:n tai uudemman sekä tarvittavat puhe- ja käännösmallit Järjestelmäasetuksista. Sen jälkeen käsittely tapahtuu paikallisesti. MP4/MOV vaatii tuetut koodekit; suojattua tai äänetöntä videota ei voi litteroida."
+  },
+  "features": {
+    "title": "Tallenteesta käyttökelpoiseksi tekstiksi.",
+    "items": [
+      [
+        "Eräkäsittely",
+        "Lisää useita ääni- tai videotiedostoja ja käsittele ne yksi kerrallaan."
+      ],
+      [
+        "Keskeytä ja jatka",
+        "Keskeytä pitkä tehtävä, käsittele toinen ja jatka viimeksi valmistuneen osan läheltä."
+      ],
+      [
+        "Kuuntele ja korjaa",
+        "Siirry lauseeseen napsauttamalla, muuta toistonopeutta ja muokkaa tekstiä tai käännöstä. Muutokset tallentuvat paikallisesti."
+      ],
+      [
+        "Kuusi vientimuotoa",
+        "Vie alkuperäinen teksti tai käännös muodossa TXT, Markdown, HTML, DOCX, SRT tai VTT."
+      ]
+    ]
+  },
+  "gallery": {
+    "title": "Tutustu sovellukseen.",
+    "note": "Aidot kuvat version 1.2 kehitysversiosta, suomenkielisestä käyttöliittymästä ja LibriVox-tallenteesta. Osa käyttöliittymästä on vielä englanniksi. Teksti on tarkistettava; esimerkki ei ole tarkkuusmittaus.",
+    "videoTitle": "Video ja tekstitykset",
+    "videoText": "Tuo MP4 tai MOV, valitse ääniraita ja esikatsele tekstityksiä. Jaa tai yhdistä osia, säädä ajoitusta ja vie alkuperäiset, käännetyt tai kaksikieliset SRT/VTT-tekstitykset.",
+    "alts": [
+      "Muunna puhe tekstiksi ääni- ja videotiedostoista. Litteroi, muokkaa, käännä ja vie paikallisesti Macilla ilman tiedostojen lähettämistä.",
+      "Siirry lauseeseen napsauttamalla, muuta toistonopeutta ja muokkaa tekstiä tai käännöstä. Muutokset tallentuvat paikallisesti.",
+      "Tuo MP4 tai MOV, valitse ääniraita ja esikatsele tekstityksiä. Jaa tai yhdistä osia, säädä ajoitusta ja vie alkuperäiset, käännetyt tai kaksikieliset SRT/VTT-tekstitykset.",
+      "Ääntä, videoita, tekstiä tai käännöksiä ei lähetetä palvelimelle. Sovellus käyttää Apple SpeechAnalyzeria ja Apple Translationia Macillasi ilman tiliä tai etälokitusta.",
+      "Lisää useita ääni- tai videotiedostoja ja käsittele ne yksi kerrallaan.",
+      "Vie alkuperäinen teksti tai käännös muodossa TXT, Markdown, HTML, DOCX, SRT tai VTT."
+    ]
+  },
+  "formats": {
+    "title": "Työhösi sopivat tiedostomuodot.",
+    "input": "Tuetut mediatiedostot",
+    "output": "Tekstin vienti",
+    "finderTitle": "Suoraan Finderista",
+    "finderText": "Lähetä äänitiedostot sovellukseen tai aloita käännös Finderin pikavalikosta."
+  },
+  "privacy": {
+    "title": "Tiedostosi pysyvät Macillasi.",
+    "items": [
+      [
+        "Sovelluksen tietosuoja",
+        "Ääntä, videoita, tekstiä tai käännöksiä ei lähetetä palvelimelle. Sovellus käyttää Apple SpeechAnalyzeria ja Apple Translationia Macillasi ilman tiliä tai etälokitusta."
+      ],
+      [
+        "Järjestelmämallit",
+        "Asenna tarvittavat mallit Järjestelmäasetuksista. Sovellus tarkistaa saatavuuden mutta ei lataa malleja itse."
+      ],
+      [
+        "Sivuston tietosuoja",
+        "Tämä staattinen sivusto ei sisällä analytiikkaskriptejä, mainosseurantaa, lomakkeita, evästeitä tai ulkoisia fontteja. Cloudflare voi palveluntarjoajana käsitellä tavallisia pyyntölokeja."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Kertamaksu. Ei tilausta.",
+    "text": "App Store näyttää maasi tai alueesi hinnan. Kaikki litterointi-, käännös- ja vientitoiminnot sisältyvät hintaan.",
+    "note": "OfflineScribe ostetaan kerran. Ei sovelluksen sisäisiä ostoja, tilauksia, kokeilujaksoja, päiväkiintiöitä tai tiedostokokoon perustuvia lisämaksuja."
+  },
+  "support": {
+    "title": "Kysymyksiä tai palautetta?",
+    "text": "Ota yhteyttä kehittäjään muunnoksista, kielimalleista tai työnkulusta.",
+    "email": "Lähetä sähköpostia kehittäjälle",
+    "note": "Oletussähköpostisovelluksesi avautuu. Päätät itse, mitä lähetät."
+  },
+  "faq": {
+    "title": "Ennen aloittamista",
+    "items": [
+      [
+        "Mitä tallenteita voin muuntaa tekstiksi?",
+        "Muunna kokoukset, haastattelut, luennot ja äänimuistiot muokattavaksi tekstiksi. Kuuntele korjatessasi ja vie asiakirjoja tai tekstityksiä."
+      ],
+      [
+        "Voinko litteroida ilman verkkoyhteyttä?",
+        "Vaatii macOS 26:n tai uudemman sekä tarvittavat puhe- ja käännösmallit Järjestelmäasetuksista. Sen jälkeen käsittely tapahtuu paikallisesti. MP4/MOV vaatii tuetut koodekit; suojattua tai äänetöntä videota ei voi litteroida."
+      ],
+      [
+        "Tarvitsenko tilauksen?",
+        "OfflineScribe ostetaan kerran. Ei sovelluksen sisäisiä ostoja, tilauksia, kokeilujaksoja, päiväkiintiöitä tai tiedostokokoon perustuvia lisämaksuja."
+      ]
+    ]
+  },
+  "back": "Takaisin ylös"
+}

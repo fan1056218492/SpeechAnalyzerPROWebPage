@@ -1,0 +1,151 @@
+{
+  "locales": [
+    {
+      "storeLocale": "pl",
+      "sourceLocale": "en",
+      "direction": "ltr",
+      "slides": [
+        {
+          "id": "audio-video-to-text",
+          "filename": "01-audio-video-to-text.png",
+          "source": "01-hero.png",
+          "title": "Zamień audio i wideo w edytowalny tekst",
+          "subtitle": "Wszystko lokalnie na Macu. Interfejs aplikacji: angielski."
+        },
+        {
+          "id": "review-and-seek",
+          "filename": "02-review-and-seek.png",
+          "source": "02-review.png",
+          "title": "Słuchaj, poprawiaj i przechodź do zdań",
+          "subtitle": "Odtwarzanie, wyszukiwanie i edycja. Interfejs: angielski."
+        },
+        {
+          "id": "bilingual-subtitles",
+          "filename": "03-bilingual-subtitles.png",
+          "source": "03-subtitles.png",
+          "title": "Oryginał, tłumaczenie i napisy dwujęzyczne",
+          "subtitle": "Dostosuj czas i eksportuj SRT/VTT. Interfejs: angielski."
+        },
+        {
+          "id": "private-on-mac",
+          "filename": "04-private-on-mac.png",
+          "source": "04-privacy.png",
+          "title": "Poufne treści zostają na Twoim Macu",
+          "subtitle": "Bez chmury, konta i zdalnych logów. Interfejs: angielski."
+        },
+        {
+          "id": "batch-pause-resume",
+          "filename": "05-batch-pause-resume.png",
+          "source": "05-batch.png",
+          "title": "Przetwarzaj pliki, wstrzymuj i wznawiaj",
+          "subtitle": "Zmień priorytet i wróć do zadania. Interfejs: angielski."
+        },
+        {
+          "id": "export-formats",
+          "filename": "06-export-formats.png",
+          "source": "06-export.png",
+          "title": "Jedna korekta. Sześć formatów.",
+          "subtitle": "TXT, Markdown, HTML, DOCX, SRT, VTT. Interfejs: angielski."
+        }
+      ]
+    },
+    {
+      "storeLocale": "cs",
+      "sourceLocale": "en",
+      "direction": "ltr",
+      "slides": [
+        {
+          "id": "audio-video-to-text",
+          "filename": "01-audio-video-to-text.png",
+          "source": "01-hero.png",
+          "title": "Převeďte audio a video na upravitelný text",
+          "subtitle": "Vše zůstává na Macu. Rozhraní aplikace: angličtina."
+        },
+        {
+          "id": "review-and-seek",
+          "filename": "02-review-and-seek.png",
+          "source": "02-review.png",
+          "title": "Poslouchejte, opravujte a přejděte na větu",
+          "subtitle": "Přehrávání, hledání a úpravy. Rozhraní: angličtina."
+        },
+        {
+          "id": "bilingual-subtitles",
+          "filename": "03-bilingual-subtitles.png",
+          "source": "03-subtitles.png",
+          "title": "Originál, překlad i dvojjazyčné titulky",
+          "subtitle": "Upravte časování a exportujte SRT/VTT. Rozhraní: angličtina."
+        },
+        {
+          "id": "private-on-mac",
+          "filename": "04-private-on-mac.png",
+          "source": "04-privacy.png",
+          "title": "Citlivý obsah zůstává na vašem Macu",
+          "subtitle": "Bez cloudu, účtu a vzdálených logů. Rozhraní: angličtina."
+        },
+        {
+          "id": "batch-pause-resume",
+          "filename": "05-batch-pause-resume.png",
+          "source": "05-batch.png",
+          "title": "Zpracujte dávku, pozastavte a pokračujte",
+          "subtitle": "Upřednostněte jinou úlohu a vraťte se. Rozhraní: angličtina."
+        },
+        {
+          "id": "export-formats",
+          "filename": "06-export-formats.png",
+          "source": "06-export.png",
+          "title": "Jedna kontrola. Šest formátů.",
+          "subtitle": "TXT, Markdown, HTML, DOCX, SRT, VTT. Rozhraní: angličtina."
+        }
+      ]
+    },
+    {
+      "storeLocale": "tr",
+      "sourceLocale": "en",
+      "direction": "ltr",
+      "slides": [
+        {
+          "id": "audio-video-to-text",
+          "filename": "01-audio-video-to-text.png",
+          "source": "01-hero.png",
+          "title": "Ses ve videoyu düzenlenebilir metne dönüştürün",
+          "subtitle": "Her şey Mac’inizde kalır. Uygulama arayüzü: İngilizce."
+        },
+        {
+          "id": "review-and-seek",
+          "filename": "02-review-and-seek.png",
+          "source": "02-review.png",
+          "title": "Dinleyin, düzeltin ve cümleye atlayın",
+          "subtitle": "Oynatma, arama ve düzenleme. Arayüz: İngilizce."
+        },
+        {
+          "id": "bilingual-subtitles",
+          "filename": "03-bilingual-subtitles.png",
+          "source": "03-subtitles.png",
+          "title": "Özgün, çevrilmiş ve iki dilli altyazılar",
+          "subtitle": "Zamanlamayı ayarlayın, SRT/VTT aktarın. Arayüz: İngilizce."
+        },
+        {
+          "id": "private-on-mac",
+          "filename": "04-private-on-mac.png",
+          "source": "04-privacy.png",
+          "title": "Hassas içerikler Mac’inizde kalır",
+          "subtitle": "Bulut, hesap ve uzaktan günlük yok. Arayüz: İngilizce."
+        },
+        {
+          "id": "batch-pause-resume",
+          "filename": "05-batch-pause-resume.png",
+          "source": "05-batch.png",
+          "title": "Toplu işleyin, duraklatın ve sürdürün",
+          "subtitle": "Başka bir göreve geçip geri dönün. Arayüz: İngilizce."
+        },
+        {
+          "id": "export-formats",
+          "filename": "06-export-formats.png",
+          "source": "06-export.png",
+          "title": "Bir kez düzeltin. Altı biçimde aktarın.",
+          "subtitle": "TXT, Markdown, HTML, DOCX, SRT, VTT. Arayüz: İngilizce."
+        }
+      ]
+    }
+  ]
+}

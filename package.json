@@ -2,8 +2,12 @@
   "name": "offlinescribe-webpage",
   "version": "1.2.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "node scripts/build-site.mjs",
-    "deploy": "npx wrangler deploy"
-  }
+    "check": "npm run build && node --test tests/site.test.mjs",
+    "preview": "node scripts/serve.mjs",
+    "deploy": "npm run check && npx wrangler deploy"
+  },
+  "engines": { "node": ">=22" }
 }

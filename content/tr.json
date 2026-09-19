@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Mac’te sesi metne dönüştürün — OfflineScribe",
+    "description": "Ses ve video dosyalarındaki konuşmayı metne dönüştürün. Dosyalarınızı yüklemeden Mac’inizde yazıya dökün, düzenleyin, çevirin ve dışa aktarın."
+  },
+  "skip": "İçeriğe geç",
+  "language": "Dil",
+  "nav": {
+    "features": "Özellikler",
+    "privacy": "Gizlilik",
+    "pricing": "Fiyat",
+    "support": "Destek"
+  },
+  "hero": {
+    "title": "Mac’inizde sesi metne dönüştürün.",
+    "lead": "Ses ve video dosyalarındaki konuşmayı metne dönüştürün. Dosyalarınızı yüklemeden Mac’inizde yazıya dökün, düzenleyin, çevirin ve dışa aktarın.",
+    "download": "App Store’dan indirin",
+    "webStore": "App Store web sayfasını açın",
+    "requirements": "macOS 26+ ve Sistem Ayarları’ndan yüklenen gerekli konuşma ve çeviri modelleri gerekir. Ardından işlemler yerel olarak yapılır. MP4/MOV desteği uyumlu kodeklere bağlıdır; korumalı veya sessiz videolar yazıya dökülemez."
+  },
+  "features": {
+    "title": "Kayıttan kullanılabilir metne.",
+    "items": [
+      [
+        "Toplu işlem",
+        "Birden fazla ses veya video dosyası ekleyin ve sırayla işleyin."
+      ],
+      [
+        "Duraklatın ve sürdürün",
+        "Uzun bir görevi duraklatın, başka bir görevi işleyin ve son tamamlanan bölümün yakınından devam edin."
+      ],
+      [
+        "Dinleyin ve düzeltin",
+        "Bir cümleye tıklayarak o noktaya gidin, oynatma hızını değiştirin ve metni veya çeviriyi düzenleyin. Değişiklikler yerel olarak kaydedilir."
+      ],
+      [
+        "Altı dışa aktarma biçimi",
+        "Özgün metni veya çeviriyi TXT, Markdown, HTML, DOCX, SRT veya VTT olarak dışa aktarın."
+      ]
+    ]
+  },
+  "gallery": {
+    "title": "Uygulamayı iş başında görün.",
+    "note": "LibriVox kaydıyla 1.2 geliştirme sürümünden gerçek görüntüler. Örneklerdeki arayüz İngilizcedir. Metin kontrol edilmelidir; bu örnek bir doğruluk ölçümü değildir.",
+    "videoTitle": "Video ve altyazılar",
+    "videoText": "MP4 veya MOV içe aktarın, ses parçasını seçin ve altyazıları önizleyin. Bölümleri ayırın veya birleştirin, zamanlamayı ayarlayın ve özgün, çevrilmiş veya iki dilli SRT/VTT dışa aktarın.",
+    "alts": [
+      "Ses ve video dosyalarındaki konuşmayı metne dönüştürün. Dosyalarınızı yüklemeden Mac’inizde yazıya dökün, düzenleyin, çevirin ve dışa aktarın.",
+      "Bir cümleye tıklayarak o noktaya gidin, oynatma hızını değiştirin ve metni veya çeviriyi düzenleyin. Değişiklikler yerel olarak kaydedilir.",
+      "MP4 veya MOV içe aktarın, ses parçasını seçin ve altyazıları önizleyin. Bölümleri ayırın veya birleştirin, zamanlamayı ayarlayın ve özgün, çevrilmiş veya iki dilli SRT/VTT dışa aktarın.",
+      "Ses, video, metin ve çeviriler sunucuya yüklenmez. Uygulama, hesap veya uzaktan günlük kaydı olmadan Mac’inizde Apple SpeechAnalyzer ve Apple Translation kullanır.",
+      "Birden fazla ses veya video dosyası ekleyin ve sırayla işleyin.",
+      "Özgün metni veya çeviriyi TXT, Markdown, HTML, DOCX, SRT veya VTT olarak dışa aktarın."
+    ]
+  },
+  "formats": {
+    "title": "İşinize uygun biçimler.",
+    "input": "Desteklenen medya",
+    "output": "Metni dışa aktarma",
+    "finderTitle": "Doğrudan Finder’dan",
+    "finderText": "Ses dosyalarını uygulamaya gönderin veya Finder bağlam menüsünden çeviri başlatın."
+  },
+  "privacy": {
+    "title": "Dosyalarınız Mac’inizde kalır.",
+    "items": [
+      [
+        "Uygulama gizliliği",
+        "Ses, video, metin ve çeviriler sunucuya yüklenmez. Uygulama, hesap veya uzaktan günlük kaydı olmadan Mac’inizde Apple SpeechAnalyzer ve Apple Translation kullanır."
+      ],
+      [
+        "Sistem modelleri",
+        "Gerekli modelleri Sistem Ayarları’ndan yükleyin. Uygulama kullanılabilirliği kontrol eder, modelleri kendisi indirmez."
+      ],
+      [
+        "Web sitesi gizliliği",
+        "Bu statik web sitesinde analiz betikleri, reklam izleyicileri, formlar, çerezler veya harici yazı tipleri yoktur. Barındırma sağlayıcısı Cloudflare standart istek günlüklerini işleyebilir."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Tek satın alma. Abonelik yok.",
+    "text": "App Store ülkenize veya bölgenize ait fiyatı gösterir. Tüm yazıya dökme, çeviri ve dışa aktarma özellikleri dahildir.",
+    "note": "OfflineScribe tek seferlik ücretle indirilir. Uygulama içi satın alma, abonelik, deneme süresi, günlük kota veya dosya boyutuna bağlı ek ücret yoktur."
+  },
+  "support": {
+    "title": "Sorularınız veya önerileriniz mi var?",
+    "text": "Dönüştürme, dil modelleri veya iş akışınız hakkında geliştiriciyle iletişime geçin.",
+    "email": "Geliştiriciye e-posta gönderin",
+    "note": "Varsayılan e-posta uygulamanız açılır. Ne göndereceğinize siz karar verirsiniz."
+  },
+  "faq": {
+    "title": "Başlamadan önce",
+    "items": [
+      [
+        "Hangi kayıtları metne dönüştürebilirim?",
+        "Toplantıları, röportajları, dersleri ve sesli notları düzenlenebilir metne dönüştürün. Dinlerken düzeltin ve belge veya altyazı olarak dışa aktarın."
+      ],
+      [
+        "Çevrimdışı yazıya dökebilir miyim?",
+        "macOS 26+ ve Sistem Ayarları’ndan yüklenen gerekli konuşma ve çeviri modelleri gerekir. Ardından işlemler yerel olarak yapılır. MP4/MOV desteği uyumlu kodeklere bağlıdır; korumalı veya sessiz videolar yazıya dökülemez."
+      ],
+      [
+        "Abonelik gerekli mi?",
+        "OfflineScribe tek seferlik ücretle indirilir. Uygulama içi satın alma, abonelik, deneme süresi, günlük kota veya dosya boyutuna bağlı ek ücret yoktur."
+      ]
+    ]
+  },
+  "back": "Başa dön"
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Audio naar tekst op Mac — OfflineScribe",
+    "description": "Zet spraak om in tekst uit audio- en videobestanden. Transcribeer, bewerk, vertaal en exporteer lokaal op je Mac, zonder bestanden te uploaden."
+  },
+  "skip": "Naar inhoud",
+  "language": "Taal",
+  "nav": {
+    "features": "Functies",
+    "privacy": "Privacy",
+    "pricing": "Prijs",
+    "support": "Ondersteuning"
+  },
+  "hero": {
+    "title": "Zet audio om in tekst op je Mac.",
+    "lead": "Zet spraak om in tekst uit audio- en videobestanden. Transcribeer, bewerk, vertaal en exporteer lokaal op je Mac, zonder bestanden te uploaden.",
+    "download": "Download in de App Store",
+    "webStore": "Bekijk de App Store-website",
+    "requirements": "Vereist macOS 26+ en de benodigde spraak- en vertaalmodellen via Systeeminstellingen. Daarna vindt de verwerking lokaal plaats. MP4/MOV vereist ondersteunde codecs; beveiligde video of video zonder geluid kan niet worden getranscribeerd."
+  },
+  "features": {
+    "title": "Van opname naar bruikbare tekst.",
+    "items": [
+      [
+        "Batchverwerking",
+        "Voeg meerdere audio- of videobestanden toe en verwerk ze één voor één."
+      ],
+      [
+        "Pauzeren en hervatten",
+        "Pauzeer een lange taak, verwerk een andere en hervat vlak bij het laatste voltooide fragment."
+      ],
+      [
+        "Luisteren en corrigeren",
+        "Klik op een zin om ernaartoe te springen, wijzig de afspeelsnelheid en bewerk de tekst of vertaling. Wijzigingen worden lokaal bewaard."
+      ],
+      [
+        "Zes exportformaten",
+        "Exporteer de oorspronkelijke of vertaalde tekst als TXT, Markdown, HTML, DOCX, SRT of VTT."
+      ]
+    ]
+  },
+  "gallery": {
+    "title": "Bekijk de app in actie.",
+    "note": "Echte beelden van een ontwikkelversie van 1.2 met de Nederlandse app-interface en een LibriVox-opname. Sommige onderdelen zijn nog Engelstalig. Controleer de transcriptie; dit voorbeeld is geen nauwkeurigheidsmeting.",
+    "videoTitle": "Video en ondertitels",
+    "videoText": "Importeer MP4 of MOV, kies een audiotrack en bekijk ondertitels. Splits of voeg fragmenten samen, pas tijden aan en exporteer oorspronkelijke, vertaalde of tweetalige SRT/VTT.",
+    "alts": [
+      "Zet spraak om in tekst uit audio- en videobestanden. Transcribeer, bewerk, vertaal en exporteer lokaal op je Mac, zonder bestanden te uploaden.",
+      "Klik op een zin om ernaartoe te springen, wijzig de afspeelsnelheid en bewerk de tekst of vertaling. Wijzigingen worden lokaal bewaard.",
+      "Importeer MP4 of MOV, kies een audiotrack en bekijk ondertitels. Splits of voeg fragmenten samen, pas tijden aan en exporteer oorspronkelijke, vertaalde of tweetalige SRT/VTT.",
+      "Audio, video, tekst en vertalingen worden niet geüpload. De app gebruikt Apple SpeechAnalyzer en Apple Translation op je Mac, zonder account of externe logregistratie.",
+      "Voeg meerdere audio- of videobestanden toe en verwerk ze één voor één.",
+      "Exporteer de oorspronkelijke of vertaalde tekst als TXT, Markdown, HTML, DOCX, SRT of VTT."
+    ]
+  },
+  "formats": {
+    "title": "Bestanden die in je werkwijze passen.",
+    "input": "Ondersteunde media",
+    "output": "Tekst exporteren",
+    "finderTitle": "Vanuit Finder",
+    "finderText": "Stuur audiobestanden naar de app of start een vertaling via het contextmenu in Finder."
+  },
+  "privacy": {
+    "title": "Je bestanden blijven op je Mac.",
+    "items": [
+      [
+        "Privacy van de app",
+        "Audio, video, tekst en vertalingen worden niet geüpload. De app gebruikt Apple SpeechAnalyzer en Apple Translation op je Mac, zonder account of externe logregistratie."
+      ],
+      [
+        "Systeemmodellen",
+        "Installeer de benodigde modellen via Systeeminstellingen. De app controleert de beschikbaarheid en downloadt zelf geen modellen."
+      ],
+      [
+        "Privacy van de website",
+        "Deze statische website bevat geen analysescripts, advertentietrackers, formulieren, cookies of externe lettertypen. Cloudflare kan als hostingprovider standaard verzoeklogboeken verwerken."
+      ]
+    ]
+  },
+  "pricing": {
+    "title": "Eén aankoop. Geen abonnement.",
+    "text": "De App Store toont de prijs voor je land of regio. Alle transcriptie-, vertaal- en exportfuncties zijn inbegrepen.",
+    "note": "OfflineScribe is een eenmalige betaalde download. Geen in-app aankopen, abonnementen, proefperiode, dagelijkse limieten of betaalmuren op basis van bestandsgrootte."
+  },
+  "support": {
+    "title": "Vragen of feedback?",
+    "text": "Neem contact op met de ontwikkelaar over conversies, taalmodellen of je werkwijze.",
+    "email": "E-mail de ontwikkelaar",
+    "note": "Je standaard e-mailapp wordt geopend. Je bepaalt zelf wat je verstuurt."
+  },
+  "faq": {
+    "title": "Voor je begint",
+    "items": [
+      [
+        "Welke opnamen kan ik omzetten?",
+        "Zet vergaderingen, interviews, colleges en spraakmemo’s om in bewerkbare tekst. Luister mee tijdens het corrigeren en exporteer documenten of ondertitels."
+      ],
+      [
+        "Kan ik offline transcriberen?",
+        "Vereist macOS 26+ en de benodigde spraak- en vertaalmodellen via Systeeminstellingen. Daarna vindt de verwerking lokaal plaats. MP4/MOV vereist ondersteunde codecs; beveiligde video of video zonder geluid kan niet worden getranscribeerd."
+      ],
+      [
+        "Heb ik een abonnement nodig?",
+        "OfflineScribe is een eenmalige betaalde download. Geen in-app aankopen, abonnementen, proefperiode, dagelijkse limieten of betaalmuren op basis van bestandsgrootte."
+      ]
+    ]
+  },
+  "back": "Terug naar boven"
+}
